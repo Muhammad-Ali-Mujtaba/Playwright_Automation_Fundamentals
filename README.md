@@ -1,4 +1,4 @@
-# PLaywright Automation Testing
+# Playwright Automation Testing
 
 This project showcases the fundamentals of Playwright automation testing: 
 - test, expect, browser, context, page, hooks, selectors, locators, getByRole etc
